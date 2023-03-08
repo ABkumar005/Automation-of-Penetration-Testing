@@ -30,8 +30,11 @@ sudo git clone https://github.com/ABkumar005/Automation-of-Penetration-Testing.g
 Once you have the necessary tools installed and configured completely  then use by following commands.
 
 1.chmod +x final.sh
+
 2.sudo bash final.sh
+
 3.Enter the domain you want to scan 
+
 4.See the output each on separate files
 
 **Contributing** 
