@@ -38,8 +38,7 @@ Once you have the necessary tools installed and configured completely  then use 
 4.See the output each on separate files
 
 
-https://user-images.githubusercontent.com/127177653/223787140-9ec89b64-6778-4504-9dfa-1001dc0b192d.mp4
-
+https://user-images.githubusercontent.com/127177653/223807300-6cb0e391-fe57-40df-a724-e8221092fef5.mp4
 
 
 
