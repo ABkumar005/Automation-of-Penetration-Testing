@@ -23,14 +23,16 @@ To get started with this project you will need to have the following tools insta
 
 **Installation**
 
-sudo gitclone
+sudo git clone https://github.com/ABkumar005/Automation-of-Penetration-Testing.git
 
 **Usage**
 
-Once you have the necessary tools installed and configured completely 
-1. sudo bash final.sh
-2. Enter the domain you want to scan 
-3. See the output each on separate files
+Once you have the necessary tools installed and configured completely  then use by following commands.
+
+1.chmod +x final.sh
+2.sudo bash final.sh
+3.Enter the domain you want to scan 
+4.See the output each on separate files
 
 **Contributing** 
 
