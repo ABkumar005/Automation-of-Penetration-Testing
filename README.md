@@ -37,6 +37,11 @@ Once you have the necessary tools installed and configured completely  then use 
 
 4.See the output each on separate files
 
+
+https://user-images.githubusercontent.com/127177653/223787140-9ec89b64-6778-4504-9dfa-1001dc0b192d.mp4
+
+
+
 **Contributing** 
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also open an issue if you have any questions or suggestions.
