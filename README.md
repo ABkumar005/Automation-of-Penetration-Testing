@@ -5,6 +5,8 @@ This project is focused on automating the process of penetration testing. The pr
 2. Vulnerability scanning
 
 **Getting Started** 
+
+
 To get started with this project you will need to have the following tools installed:
 1. Nmap
 2. Metasploit Framework
@@ -31,7 +33,9 @@ Once you have the necessary tools installed and configured completely
 3. See the output each on separate files
 
 **Contributing** 
+
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also open an issue if you have any questions or suggestions.
 
 **Acknowledgments**
+
 Special thanks to the creators of the tools used in this project, as well as the open source community for making these tools available to everyone.
